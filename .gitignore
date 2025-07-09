@@ -1,3 +1,16 @@
-node_modules
-dist
+# Ignore compiled files
+dist/
+
+# Node dependencies
+node_modules/
+
+# Environment variables
 .env
+
+# Logs
+logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
